@@ -1,0 +1,294 @@
+
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!-last edited 11.11.2001->
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<Corpus>
+
+ < Folktale Title = "Morozko" NewAfanasievEditionNumber = "96" >
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation> the stepmother was the stepdaughter of Yes dear daughter; native that neither would do. 
+
+ 
+
+for all its gladât on the front of the da, saying: 
+
+ 
+
+"Good!" 
+
+ 
+
+And padčernca as either please-does not please the everything is not all bad; </InitialSituation>
+
+ <PrelimMisfortune>
+
+ 
+
+a nado truth to say the girl was gold, hopoših hands she'd like cheese bathed in butter but mače-Hee each day tears I washed up. 
+
+ 
+
+What do I do? 
+
+ 
+
+Betep though pošumit da zatihnet, and the old woman does not soon ujmetsâ all bydet invent Yes teeth to scratch. 
+
+ 
+
+</PrelimMisfortune>
+
+ </Preparation>
+
+ < Villainy subtype = "Expulsion" >
+
+ 
+
+And came up with a stepmother stepdaughter from the yard to drive: 
+
+ 
+
+"Vezi, VESI, old man, where you want it, to my eye it is not seen to my ears about it they have not heard; 
+
+ 
+
+Yes No vozi to their warm House, and in a purely field on tpeskun-mopozl» 
+
+ 
+
+</Villainy>
+
+ < ConnectiveIncident subtype = "PlaintiveSong" >
+
+The old man zatužil, planned-CAL; </ConnectiveIncident>
+
+ <Departure>
+
+ <!-blurry segmentation->
+
+but he put his daughter on the sled, wanted to cover up the poponkoj and the afraid; 
+
+ 
+
+took a stray in a field that has fallen down at snowdrift, cross over and get home to my eyes not seen dočerninoj death. 
+
+ 
+
+You poor thing, was left shaking and quietly pray works. </Departure>
+
+                                                
+
+<!-repetition of donor functions->
+
+ < DonorFunction subtype = "TestOfHero" > 
+
+Comes Mopoz, poppygivaet-pockakivaet, the Red girl looks: "girl, girl, I Cold red nose!" 
+
+</DonorFunction>
+
+ < HeroReaction subtype = "FriendlyResponse" >
+
+"Welcome, Frost; know God you brought to my soul sinful. " 
+
+ 
+
+Moroz wanted her tuknut′ and freeze; 
+
+</HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "GiftOfMaterialNature" >
+
+ 
+
+but love him its intelligent speech, pity was gone! 
+
+ 
+
+He threw her a fur coat.
+
+ 
+
+ She got dressed in a fur coat, podožmala feet, sits.
+
+</AcquisitionOfMagicalAgent>
+
+ < DonorFunction subtype = "TestOfHero" >
+
+ Again came the Frost red nose, poprygivaet-poskakivaet, the Red girl poglâ of Constitution: 
+
+ 
+
+"Girl, girl, I Cold red nose!"-</DonorFunction>
+
+ < HeroReaction subtype = "FriendlyResponse" >
+
+ "Dobpo welcome, Frost; know God you brought to my soul sinful. " 
+
+</HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "GiftOfMaterialNature" >
+
+ Mopoz came not on the soul, he brought the Red girl chest high so heavy, full of all the dowry. 
+
+ 
+
+ She sat in the šubočke on the trunk, this cheery, such a pretty one! 
+
+</AcquisitionOfMagicalAgent>
+
+ < DonorFunction subtype = "TestOfHero" >
+
+Again came the Frost red nose, poprygivaet-poskakivaet, the Red devušku looks. 
+
+</DonorFunction>
+
+ < HeroReaction subtype = "FriendlyResponse" >
+
+It his greeting, </HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "GiftOfMaterialNature" >
+
+He gave her a dress, embroidered, and silver and gold. 
+
+ 
+
+Wore it and became what a beauty, what a narâdnica! 
+
+ 
+
+ Sits and songs popevaet. 
+
+</AcquisitionOfMagicalAgent>
+
+ <Return>
+
+A Mačexa on it's wake; napekla pancakes. 
+
+ 
+
+"Go, my husband, my daughter," burying the VESI. 
+
+ 
+
+The old man went. And the dog under the table: 
+
+ 
+
+"Tâv, tâv! Starikovu daughter in zlate, in silver, and staruhinu are not taking the grooms! 
+
+ 
+
+"Shut up, you little fool! 
+
+ 
+
+To the damn, say: staruhinu daughter of voz′ grooms MUT, a stapikovoj some stones will bring!
+
+ 
+
+ Doggy s″elablin Yes again: 
+
+ 
+
+"Tâv, tâv! Starikovu daughter in zlate, silver is being driven, and staruhinu grooms not beput!» 
+
+ 
+
+The old woman and the pancakes had Bila and her little dog, and all of your: 
+
+ 
+
+"Starikovu daughter in zlate, in silver carrying, staruhinu grooms take!"
+
+ 
+
+Creak under gates, rastvorilisâ door, carry a chest high, heavy-alternative is the stepdaughter-Panyu pan′ej shines! 
+
+</Return>
+
+ </Move>
+
+ <Move>
+
+ <Preparation><InitialSituation>
+
+Stepmother she looked-and hands apart! 
+
+</InitialSituation><CommandExecution> < Command-subtype = "Command" >
+
+"Old man, old man, zaprâgaj other horses, drive my daughter POSCO-REI! Plant on the same field at the same place. 
+
+</Command>
+
+ < Execution subtype = "Followed" > stakik Took on the same field, planted on place </Execution>.
+
+ </CommandExecution></Preparation> 
+
+ 
+
+<!-here we have a parody of the first move. the lack is not
+
+ explicitly stated, but we gather that the step-mother wishes 
+
+the same fortune for her own daughter as that received 
+
+that of her husband. ->
+
+< Lack subtype = "OtherFormsOfLack" >
+
+</Lack>
+
+ 
+
+ 
+
+ 
+
+< DonorFunction subtype = "TestOfHero" >
+
+ Come and frost kpasnyj nose, looked at his guest, poprygal-jumped, but good speeches do not doždal; </DonorFunction>
+
+< AcquisitionOfMagicalAgent subtype = "CruelRetribution" > got angry and killed it's apoplectic. </AcquisitionOfMagicalAgent>
+
+<Return>
+
+ "Old man, go, bring my daughter, wild horses zaprâgi, so the sled not povali, da obroni not chest!"
+
+ </Return>
+
+ <UnrecognizedArrival>
+
+ And the dog under the table:
+
+ 
+
+ "Tâv, tâv! Starikovu daughter grooms take, and staruhinoj in a bag of bones are taken! "
+
+ 
+
+ -"Do not be dishonest! The pie, say: starihinu in zlate, silver being taken! "</UnrecognizedArrival>
+
+ < PunishmentOfFalseHero subtype = "Punished" >
+
+ Gates, the old woman dissolved vybezala meet the daughter, so instead she hugged the cold body. 
+
+ 
+
+ Cried, zagolosila, late!
+
+</PunishmentOfFalseHero>
+
+ 
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
