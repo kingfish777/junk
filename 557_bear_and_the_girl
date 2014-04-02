@@ -1,0 +1,200 @@
+
+<!-edited with XML Spy 3.5 NT v (http://www.xmlspy.com)->
+
+ <!-last edited 11.08.2001->
+
+ < Folktale Title = "Girl and the bear" AT = "480" NewAfanasievEditionNumber = "557" ProppConformity = "Yes" >
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation> had three sisters, younger-stupid </InitialSituation>.
+
+ < Absentation subtype = "Elders" > Summer gathered in the Woods
+
+berries; </Absentation>
+
+ </Preparation>
+
+ < Lack subtype = "LackOfHelper" >
+
+ <!-She finds herself lost in desperation, deep in the 
+
+wood, she cries out for help->
+
+ older sister wandered about, talked, walked and came to the hatke 
+
+Chicken foot. 
+
+ 
+
+Entered the hut and became the sisters cry: 
+
+ 
+
+"Who in the Woods who in boron, ppidi me the night!»
+
+ </Lack>
+
+ < DonorFunction subtype = "TestOfHero" >-"I'm in a forest, the forest, I will come to you to spend the night,
+
+ -meet the huge bear coming in the door, don't be afraid of me,
+
+climb it in my ear ppavoe, vylez′ to the left we will! "</DonorFunction>
+
+ < HeroReaction subtype = "SustainedOrdeal" > the girl got the bear in his right ear,
+
+ crept to the left and found himself behind the Groove-Hoi keys. 
+
+ 
+
+"Now make dinner!" 
+
+ 
+
+She cooked dinner. 
+
+ 
+
+Sat down at the table; 
+
+ 
+
+the mouse runs up and asks the maid porridges. 
+
+ 
+
+"Who's with you and weigh whether razgova?" asked the bear. 
+
+ 
+
+"Myshka Kasi nrosit". 
+
+ 
+
+-"Hit her forehead!" 
+
+ 
+
+She hit. 
+
+ 
+
+"Now my bed bed a number of logs Yes a number of stones, mortar in the head, and wrap yourself up a millstone." 
+
+ 
+
+B is prepared;
+
+ 
+
+bear down, and the maid had told the whole night running around the room Yes key ring. 
+
+ 
+
+She runs around the pobrâkivaet and keys, the bear was lying, lying and bpocil a millstone. 
+
+ 
+
+"Still Alive!" 
+
+ 
+
+-cried the mouse; 
+
+ 
+
+the bear dropped the stupa. 
+
+ 
+
+"Still Alive!" 
+
+ 
+
+-again into a mouse, and a stupa to ­ flew billet </HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "AgentNotTransferred" > Killed bear Red 
+
+Damsel and sucked up from the </AcquisitionOfMagicalAgent> blood.
+
+ <!-Here were have a repetition of what happened to the second sister. 
+
+Details omitted for redundancy's sake->
+
+ < DonorFunction subtype = "TestOfHero"/>
+
+ < HeroReaction subtype = "SustainedOrdeal"/>
+
+ < AcquisitionOfMagicalAgent subtype = "AgentNotTransferred" > another time
+
+ wandered about average with her sister and happened the same
+
+the </AcquisitionOfMagicalAgent> problem.
+
+ <!-And here comes the Fool, our Hero->
+
+ < DonorFunction subtype = "TestOfHero" > you less-stupid to go
+
+ look for their sisters and got into the same hut. 
+
+ 
+
+Bear ordered her to cook dinner and bed postlat′. with 
+
+ 
+
+They sat down at the table, came running mouse and became nrosit′ </DonorFunction>.
+
+ < HeroReaction subtype = "SustainedOrdeal" > the girl gave her. 
+
+ 
+
+"Who are you pazgovapivaet?" asked the bear.
+
+ 
+
+"No!"</HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "AgentNotTransferred" > here is where
+
+ the bear lay down, mouse red Girl said:
+
+"Give me the keys, I'm running for you!"
+
+ 
+
+ The bear dropped the millstone, mouse cried: 
+
+ 
+
+ "Alive!"</AcquisitionOfMagicalAgent>
+
+ <PursuitRescueOfHero>
+
+ < PursuitOfHero subtype = "AttemptToDevourHero" > the bear jumped up, became
+
+ look for dead, not found and ran in combining </PursuitOfHero>.
+
+ < RescueOfHero subtype = "TemptationWardedOff" > mouse Then told 
+
+the girl's older sisters, gave her keys, which neither ask
+
+ -all will give, and </RescueOfHero>
+
+ </PursuitRescueOfHero>
+
+ <Return> of drove her domoi </Return>.
+
+ </Move>
+
+ </Folktale>
+
+ 
+
+
+
+
+
+
