@@ -1,0 +1,473 @@
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!-Propp says:->
+
+<!--A_11 B_7 (C) depart G o L M N U W Ex K_8 
+
+<!-last edited-03.12.2014->
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<Corpus>
+
+ < Folktale Title = "Burenushka" NewAfanasievEditionNumber = "101" AT = "+403" > 511
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+Not a Kingdom, not in what State was the King lived with the Queen-and they have one daughter, 
+
+Marja-Princess </InitialSituation>.
+
+ < Absentation subtype = "Elders" >
+
+ 
+
+But as the Queen died, </Absentation>
+
+<PrelimMisfortune>
+
+ the King took another wife, Âgišnu. 
+
+ 
+
+ The couple had two daughters: Âgišny 
+
+ 
+
+ one dvoeglazaâ, 
+
+ 
+
+ and the other guy troeglazaâ. 
+
+ 
+
+Stepmother is not Marja zalûbila-Princess, </PrelimMisfortune>
+
+ </Preparation>
+
+ < Villainy subtype = "Expulsion" >
+
+ She sent her mouth korovušku-burenušku and gave her a dry kraûšku Loaf pan. .
+
+</Villainy>
+
+ < ConnectiveIncident subtype = "TransportationOfBanishedHero" >
+
+ 
+
+ 
+
+Carevna went in the net,
+
+ the right leg of burenuš Ke or bowing- 
+
+ 
+
+</ConnectiveIncident>
+
+< AcquisitionOfMagicalAgent subtype = "GiftOfMaterialNature" >
+
+ 
+
+napilas′-ate, well srâdilas′; 
+
+ 
+
+ 
+
+ 
+
+for korovuškoj-burenuškoj a whole day walks like a lady. </AcquisitionOfMagicalAgent>
+
+< Transfiguration subtype = "NewPhysicalAppearance" >
+
+The day has passed, she curtsied again in her right foot, the battery is discharged, came home and kraûšku bread ppinecla, back on the table put. 
+
+ 
+
+"The bitch živa lives?"-
+
+ 
+
+thinks Âgišna; 
+
+ 
+
+the next day gave Marie-Princess the same kraûšku and sends her daughter with her. 
+
+ 
+
+"Prismotri than Marja-Princess eats?
+
+ 
+
+        <!-- -->
+
+ <!-departure? ->
+
+Came in a clear field; 
+
+ 
+
+-Princess Marya says: 
+
+ 
+
+"Give me, coz I am the looking for you in the front". 
+
+ 
+
+Search, and the sentences: 
+
+ 
+
+-"Sleep-sleep, little sister! STI-STI rodim! Sleep-sleep, eye! Sleep-sleep, another! " 
+
+ 
+
+Sister fell asleep, and Marja-Princess got up, went to korovuške-burenuške, in-Woo foot worshiping, 
+
+napilas′-ate, well srâdilas′ and walks around all day like a fine Lady. 
+
+ 
+
+Came in the evening; 
+
+ 
+
+Marja-Princess ran out and said: 
+
+ 
+
+"Get up, little sister! 
+
+ 
+
+Get up, rodim! 
+
+ 
+
+Let's go home. " 
+
+ 
+
+-"Ohti me! 
+
+ 
+
+Vvzgorevalas′ sister. 
+
+ 
+
+I slept the whole day, saw nothing; now mother zabranit me! "
+
+ 
+
+Came home; asked her mother: "That saw that ate Marja-Princess?" 
+
+ 
+
+"I saw nothing." 
+
+ 
+
+Âgišna zarugalas′; 
+
+ 
+
+in the morning rise, sending troeglazuû dočer′: go on, said, "look, she's a bitch, eating and drinking?"
+
+ 
+
+        <!-- -->
+
+ 
+
+ Came the damsel in burenušku clear field to graze; said of RIT Marja-Princess: 
+
+ 
+
+"Sister! I'll let the golovuške search. 
+
+ 
+
+-"The search for, seek, SIS, rodim!; 
+
+ 
+
+Marja-Princess started looking for Yes prigov-pivat′: 
+
+ 
+
+"Sleep-sleep, little sister! STI-STI rodim! Sleep-sleep, eye! Sleep-sleep, another! " 
+
+ 
+
+And about the third eye pozabyla; 
+
+ 
+
+third eye gazes Yes gazes that Robit Marja-Princess. 
+
+ 
+
+She ran up to the burenuške, in the right leg or bowing, napilas′-ate, well srâdilas′; 
+
+ 
+
+a Sun plant Xia-burenuške or bowing again, she is exhausted and well thought troegla ­ zuyu: 
+
+ 
+
+"Get up, little sister! Get up, rodim! 
+
+ 
+
+Let's go home. "
+
+ 
+
+-Princess Marya came home, dry kraûšku on the table put. 
+
+ 
+
+Became the mother to ask her daughter: 
+
+ 
+
+"What she drinks and eats? 
+
+ 
+
+ 
+
+Troeglazaâ all highlighted. 
+
+ 
+
+Âgišna commands: 
+
+ 
+
+"Cut, old man, korovušku-Bure-nušku". 
+
+ 
+
+Old man stabbed; 
+
+ 
+
+Marja-Princess asks: "give us rightly, Grandpa, though guzënnuû kišočku me. 
+
+ 
+
+Threw the old man s guzënnuû kišočku; 
+
+ 
+
+She took her to Johannesburg planted-rose v. Bush, there are sweet berries, there are different ptašečki Yes sing Royal and peasant.
+
+ 
+
+Proslyšal Iwai-Prince about Mario-Princess, has come to her stepmother, put the dish on the table: 
+
+ 
+
+"That girl narvet me full of boys over flowers, the dish for myself zamuž 'll take."
+
+ 
+
+ Âgnšia sent his bol′šyû dočer′ berries take; 
+
+ 
+
+ the birds up close and not allowed, see-eye vyklûût; 
+
+ 
+
+ dočer′-dpyguû and sent the. 
+
+ 
+
+ Finally, Vypustila Mario-Princess; 
+
+ 
+
+Marja-carevia took the dish and went to boys over flowers;
+
+ 
+
+She takes, and small ptašečki half Yes three times to put plate;
+
+ 
+
+ came to the table and Prince postavila bow gave away.
+
+ </Transfiguration>
+
+ 
+
+ < Wedding subtype = "WeddingThrone" >
+
+ Here is a fun pirkom Yes for svadebku; took Prince Ivan for a Mario-Princess and became a live-poživat′, good faith </Wedding>.
+
+</Move>
+
+<Move>
+
+<Preparation><InitialSituation>
+
+How long does briefly lived, gave birth to Mar′â-capevna, son of </InitialSituation>.
+
+</Preparation>
+
+< ConnectiveIncident subtype = "CallForHelp" >
+
+Wanted her Father to visit; 
+
+ 
+
+went with my husband for his father. 
+
+ 
+
+Stepmother obvorotila her gusyneû, and her daughter srâdila Ivan-tsarevitch in ženy.
+
+ 
+
+Ivan-capevič ran home. 
+
+ 
+
+Old man-ranehon′ko, morning rises pestun washes belehon′ko, picked up the baby and went to the net pole to kustočku.
+
+ 
+
+Flying geese are flying. 
+
+ 
+
+"Geese geese you my cepye!
+
+ 
+
+Where you mladënogo mother vidali?»
+
+ 
+
+-"The dpygom Stud. 
+
+ 
+
+Letit dpygoe flock.
+
+ 
+
+"Gyci you are my geese, gray! 
+
+ 
+
+Where you mladenogo mother had seen her? " 
+
+ 
+
+Mladenogo mother earth ckočila, kožy cdepnyla, side sdernula, threw on a Bush and was mladënogo breast feed, was saying goodbye to him: 
+
+ 
+
+ "Tomorrow I'm flying in dark forests, high mountains!". 
+
+ 
+
+Gave him a baby. 
+
+ 
+
+"That said, the smorodom smell like?"
+
+ 
+
+Wanted to put on the skin, take-nothing:
+
+ 
+
+Prince Ivan burned.
+
+ 
+
+He took Mario-Princess, she obvernulas′ skakuhoj, then a lizard and gadinoj, and after the veretëšečkom.
+
+ 
+
+Prince Ivan gave veretëško in two, the heel of the back threw a sock before himself-became the youngest molodica. 
+
+ 
+
+They went home together. 
+
+ 
+
+And daughter Âgišny screams, roars: 
+
+ 
+
+"Razoritel′nica goes! 
+
+ 
+
+Pogubitel′nica is coming! ". 
+
+ 
+
+Ivan-carevič assembled Princes and boyars, asked: which wife will allow me to live? " 
+
+ 
+
+They said: "the first". 
+
+ 
+
+-"Well, gentlemen, kotopaâ žena rather at the gate, with the will to live".
+
+ 
+
+ 
+
+</ConnectiveIncident>
+
+<Task>
+
+ <DifficultTask/>
+
+ subtype = SolutionOfTask < Solution > Âgišny now on the gates of the daughter of vzlezla, and only čapaetsâ-Princess Marya, and up does not climb. 
+
+</SolutionOfTask>
+
+</Task>
+
+ 
+
+< PunishmentOfFalseHero subtype = "Punished" >
+
+Tyt Ivan-capevič took a shotgun and shot podmenennuû 's wife
+
+</PunishmentOfFalseHero>
+
+< Wedding subtype = "ResumedMarriage" >
+
+ and with Marja-CA-revnoj became postaromu 
+
+live-happily ever after, of good faith.
+
+</Wedding>
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
