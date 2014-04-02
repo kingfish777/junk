@@ -1,0 +1,400 @@
+
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!-last edited 11 July 2001->
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<Corpus>
+
+ < Folktale Title = "Baba yaga" NewAfanasievEditionNumber = "103" AT = "" > 480A
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+ DED da Baba himself lived; 
+
+</InitialSituation>
+
+ < Absentation subtype = "Elders" >
+
+ father is widowed and married another wife, and by his first wife left him a girl. 
+
+      
+
+</Absentation>
+
+ <PrelimMisfortune>
+
+ Wicked stepmother is not love, Beal and thought how does lime. 
+
+</PrelimMisfortune>
+
+ </Preparation>
+
+ < Villainy subtype = "Expulsion" >
+
+ Once father left somewhere, stepmother and says to the girl: "Go to his aunt, my sister ask her needle and thread to sew the shirt for you. And the aunt of this was Baba yaga kostaânaâ leg.
+
+</Villainy><Departure>
+
+Here's the girl was not stupid, yes has gone first to his mother's aunt. 
+
+</Departure>
+
+< StruggleVictory subtype = "FightInOpenField" >
+
+ <Struggle/>
+
+ <Victory>
+
+ "Hello Auntie!"
+
+-"Hello, rodimaya! Why come? "
+
+-"Mother sent to her sister to ask the needle and thread to sew a shirt for me.
+
+ 
+
+ 
+
+And the aunt of this was Baba yaga bone yoga.
+
+ 
+
+Here's the girl was not stupid, yes has gone first to his mother's aunt. 
+
+ 
+
+"Hello Auntie!" 
+
+ 
+
+"Hello, rodimaya! Why come? "
+
+ 
+
+"My mother sent to her sister to ask the needle and thread to sew a shirt for me. 
+
+ 
+
+That and nayčaet: 
+
+ 
+
+"There's you, plemânuška, would rlava in Birch lash 
+
+ 
+
+-you're a lenûčkoj pepevâži her; 
+
+ 
+
+There you the Gates will creak and hlopat′
+
+ 
+
+-You podlei it podpptočki maclica; 
+
+ 
+
+Tam tebâ dog will tear the Loaf pan-bros′; Tam you cat be eyes tear-
+
+ 
+
+are you
+
+vetučiny; go and come.
+
+ 
+
+ 
+
+House is worth, and NEI sits Baba yaga leg bone and weaves. 
+
+ 
+
+«Zdravst ­ вуй, Auntie! " 
+
+ 
+
+-"Hello, rodimaya!" 
+
+ 
+
+"My mother sent the request you have a needle and thread to sew a shirt for me. 
+
+ 
+
+-"Good; sit down as long as weave. 
+
+ 
+
+Here's a girl off the village, Baba yaga came out and said its employee: 
+
+ 
+
+"Ctypaj, istopi bath, so wash your niece, smotpi, xopošen′ko; 
+
+ 
+
+I want her to have breakfast. 
+
+ 
+
+A girl sits neither alive nor dead, all terrified and requests it pabotnicu: 
+
+ 
+
+«Rodimaya mine! 
+
+ 
+
+You're not so much firewood podžigai how many mountainous zalivai, sieve the water wear, 
+
+ 
+
+And gave her a handkerchief.
+
+ 
+
+Baba yaga waiting; She came to the window and asked: "whether Tkeš′, plemâiuška, tkeš′, Sweetheart?" 
+
+ 
+
+"Tcu, TCU, Milaâ, Auntie!" 
+
+ 
+
+Baba-yaga and moved away, and the girl gave the cat a home-made and snrašivaet: 
+
+ 
+
+"You can't do something to otsûdova?" 
+
+ 
+
+-"Here's to you comb ipolotence, says cat-take them and ybeži; 
+
+ 
+
+for you will chase you, Baba-yaga prikloni ear to the ground and as zaslyšiš′, 
+
+ 
+
+She's close, throw a towel first and made wide-wide river; If g Baba yaga will jump across the river
+
+and will be dorogojI1ât′ you, you again prikûni ear to zemlei as yclyšiš′,
+
+She's close, throw a scallop- 
+
+ 
+
+made Dremyčij-dpemučij forest; through it she's wife proberetsâ! "
+
+ 
+
+for textiles
+
+ 
+
+ 
+
+in the hut, saw the girl left, and Dawa cat and scold, why not scratched the girl's eyes. "I told you how much,
+
+CAT-I bone did not, and she is my home-made gave» yaga nakinulas′na dogs, at the gate, the berezku and the female worker,
+
+all berate and pummel. Dogs are saying to her: "we are with you
+
+We burnt crust does not quit, and it gave a Loaf pan. The thief we you as clyžIM, we vodic′y under heels (I)
+
+ and she naMMaslica kill ". Birch said: "I'll get you
+
+me and bandaged, and she itočkoine me lentočkoi long
+
+ 
+
+ Girl dog like MOP
+
+puke she threw them a Loaf pan, and og and missed; Gates wanted to kill them-she âahloniut′sâ under heels maslica and its ENVI of styles; bandaged, and the pronustila. 
+
+ 
+
+And the cat sat behind crosia and weaves: nestol′konatkal how many messed up. 
+
+ 
+
+Baba yaga came up to the window and asked: "whether Tkeš′, plemânuška, tkeš′, Sweetheart?"
+
+ 
+
+ -"Weave, an aunt of the TCU, sweetie!" ~ answers
+
+gpybo cat.
+
+ 
+
+ 
+
+Baba yaga herself in xatku, uvidela, that girl left, and let's beat
+
+CAT and scold, why not scratched the girl's eyes. 
+
+ 
+
+"I told you how much I serve, 
+
+said the cat, I had bone and she had home-made "Mie.
+
+ 
+
+ Baba.
+
+yaga nakinulas′na dogs, gate, the berezku and the female worker, come on
+
+all berate and pummel. 
+
+ 
+
+Dogs are saying to her: 
+
+ 
+
+"We serve as your
+
+We topeAoiI Brown bposila (s), and the ISS had bread for us. " Gates,
+
+vopât: 
+
+ 
+
+"We do as much as you clyžim us water under the heels don't nod of Lila, a maslica to kill us." Birch says: 
+
+ 
+
+ 
+
+"I told you how much
+
+serve me link is not bandaged, and Oka I Ribbon perevââala».
+
+ 
+
+ 
+
+The worker said: "I'm te6e what I serve, Tby I trânočkinepodari ­
+
+La, and she gave the handkerchief. " 
+
+</Victory>
+
+</StruggleVictory>
+
+<PursuitRescueOfHero>
+
+ < PursuitOfHero subtype = "FlightThroughAir" >
+
+Baba-âga bone leg quickly sat on the mortar, pusher pogonâet,
+
+Chalk mark sweeps and set off in pursuit of the girl. 
+
+ 
+
+Here is a girl of klonila ear to the ground and hear that Baba yaga chases, and too close, took
+
+Yes and threw a towel: 
+
+ 
+
+There was a river of Takaâ širokaâ-širokaâ! 
+
+ 
+
+Baba yaga arrived to the river and the zlostiszubami began to creak. 
+
+ 
+
+vorotilas′ home, took their bulls and prignala to the river; 
+
+ 
+
+the Bulls had a drink the river dočista. 
+
+ 
+
+Baba-yaga pustjlas′ again in the Chase, the girl nriklonila ear to the ground first hears,
+
+the Baba yaga bljzko, ditched the scallop: became the hundred acre wood Yes
+
+scary! 
+
+ 
+
+Baba yaga was his biting, but no staralac′-could not
+
+ 
+
+and nibbled even vorotilas′ ago.
+
+</PursuitOfHero>
+
+ < RescueOfHero subtype = "HeroCarriedThroughAir"/>
+
+</PursuitRescueOfHero>
+
+ 
+
+< Wedding subtype = "OtherVictory" >
+
+Santa already came home and asked; "a hopper my dočka?" "
+
+went to tetušk-govorjt, mother nemnoGJpogodâi girl and
+
+ 
+
+ 
+
+Jbeža-la home. 
+
+ 
+
+"Where are you betting?"-Sprašivaet father. 
+
+ 
+
+"Oh, batûška! says
+
+The OHA. ~ so and so-me mother sent to her aunt ask needle
+
+with njtočkoj me the shirt sew and tetka, Baba âga, menâ c″est′ hotela. ­
+
+"How are you ušla ' daughter? 
+
+ 
+
+ 
+
+So and so tells the girl. dedkah
+
+learned all this, his wife rasserdjlsâ, th rasstreLil,; dočkoû, cams SA:-
+
+live happily ever after Yes Yes good faith, and 
+
+</Wedding>
+
+<Epilogue>
+
+I was there, medpivo Peel:
+
+usam flowed into his mouth, not horrible.
+
+</Epilogue>
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
