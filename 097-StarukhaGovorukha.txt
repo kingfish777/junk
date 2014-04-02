@@ -1,1 +1,200 @@
  
+
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<!-last edited by Scott 09.09.2001 Malec
+
+ 
+
+ 
+
+Scheme: (alpha Lambda)-a. expulsion-Departure-d. testofhero-e. friendlyresponse-
+
+f. giftofmaterialnature-return-wedding-other->.
+
+<!-This tale forms part of a suite of tales
+
+ of the Aarne-Thompson type 480 in Afanas'ev's 
+
+the collection (vide PG. 439 of Afanasyev vol. III for
+
+ a complete listing of tales by their respective AT # 's). ->
+
+<Corpus>
+
+ < Folktale 97 Title = "" NewAfanasievEditionNumber = "old woman" Govorukha ProppConformity = "Yes" AT = "480" >
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+                                
+
+                 
+
+ 
+
+                                
+
+ 
+
+ Day and night she grumbles, as the language is not заболит? </InitialSituation>
+
+ <PrelimMisfortune>
+
+ And all the stepdaughter: not clever and not statna! Goes and comes, will be a loot-not so, fool! 
+
+ 
+
+From morning to evening as wound gusli. 
+
+ 
+
+Fed up with her husband, tired of all the Beja, though! 
+
+ 
+
+Old man harnessed the horse started in the town of millet, vezt′, and the old woman shouts:
+
+ 
+
+ 
+
+ 
+
+ </PrelimMisfortune>
+
+ </Preparation>
+
+ < Villainy subtype = "Expulsion" >
+
+"Take it and a stepdaughter, VESI, though in the dark forest, at least on the
+road, with only my neck down with."
+
+ 
+
+</Villainy>
+
+ <Departure>
+
+The old man took. 
+
+</Departure>
+
+ < DonorFunction subtype = "TestOfHero" >
+
+ Road dal′eââ, hardest, all the BOR da swamp where to throw girl? </DonorFunction>
+
+ < HeroReaction subtype = "FriendlyResponse" >
+
+ 
+
+ Sees is a hut on a pie, backed by kur′ič, a pancake covered with worth-perevertyvaetsâ. 
+
+ 
+
+-"In a hut-thought-it's better to leave her daughter, ssadil her, gave
+the millet porridge, hit the horse and ukatil.
+
+ 
+
+The girl was left alone; natolka millet, she boiled some magic herbs porridge,
+and there are none. 
+
+ 
+
+                
+
+ 
+
+Length night came, a terrible night; 
+
+ 
+
+sleep-Boca molvit′ words, you have no one, and bored and scared! 
+
+ 
+
+</HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "GiftOfMaterialNature" >
+
+ 
+
+She opened the door, on the threshold of the forest and is calling:
+
+ 
+
+ 
+
+ 
+
+"Who's who in a dark forest-come to me gostavat′!"
+
+ 
+
+Leshy responded, skinulsâ OK, novogorodskim merchant, he came and brought a gift.
+
+ 
+
+Now comes pokalâkaet, tomorrow will come
+
+ 
+
+-This will bring; uvadilsâ, put so much that nowhere!
+
+                
+
+                
+
+                
+
+And the old woman-govorukha and skučila without the stepdaughter in
+the hut at her quietly, nauseated, stomach language from becoming too dry. 
+
+ 
+
+"Go, my husband, the stepchild of the extract from the bottom of the sea, from the fire vyhati! 
+
+ 
+
+I'm old, I'm a stepchild from chilas there. " 
+
+ 
+
+Obeyed her husband;
+
+ 
+
+ 
+
+ 
+
+                                
+
+</AcquisitionOfMagicalAgent>
+
+ <Return>
+
+came the stepdaughter, </Return>
+
+ < Wedding subtype = "OtherVictory" >
+
+ Yes raskyla Yes pazvesila chest as well on a string from
+ the hut to the gate, the old woman was Ivan Roth wanted to meet,
+ and both saw-sponge made by svatye guest pasadila and became its 
+ mushrooming da sentence.
+
+ 
+
+"What izvoliš′ my Ma'am?"</Wedding>
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
