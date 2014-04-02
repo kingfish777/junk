@@ -1,0 +1,218 @@
+
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<!-Propp says: two moves same as 95 (PG. 145 of the _Morphology_):->
+
+<!-I: B5 D1 E1 A9 f1 Return->
+
+<!--II: a6 B2-5 C D1 Departure E.neg. 1 F = Return->
+
+<!-Commentary->
+
+<!-- -->
+
+<!-- -->
+
+<!-last edited 11 July 2001->
+
+<Corpus>
+
+ < Folktale Title = "Baba yaga" NewAfanasievEditionNumber = "102" >
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation> once upon a husband with his wife and daughter prižili; 
+
+</InitialSituation>
+
+ < Absentation subtype = "Elders" > wife and pomri. </Absentation>
+
+ <PrelimMisfortune> Man married to another, and from this prižil daughter. Here's wife and had a stepdaughter; no living an orphan. Thought, thought our guy and 
+
+</PrelimMisfortune>
+
+ </Preparation>
+
+ 
+
+ < Villainy subtype = "Expulsion" > took his daughter into the Woods. </Villainy>
+
+ < ConnectiveIncident subtype = "TransportationOfBanishedHero" > Rides forest-</ConnectiveIncident>
+
+ < DonorFunction subtype = "TestOfHero"/>
+
+ <!-the Rest of the functions should go here->
+
+ <Return>
+
+ 
+
+ 
+
+ 
+
+gazes "": "": "", "": the hut on chicken feet. So says guy "": "": Hut, Hut! Stai′ back to the forest, and to the front of the Hut, and Mie vorotilas′.
+
+ 
+
+ 
+
+A man in izbuzku, and the Baba yaga "": "": in front of the head, in one corner of the leg, the other the other. "": "", "": Russian spirit smells like! "" "": "", "",-says the yaga. The man bows "": Baba yaga bone leg! I have a daughter brought in uslužnen′e "": "":. -"": "", "": Well, well! Serve, serve me,-says the witch girl, and will reward you for it "": "":.
+
+ 
+
+The father said good-bye and went home. Baba âgâ asked girls yarn with box, oven, pripasti, organize traditional vapour and the left. 
+
+ 
+
+Here's the encyclopedia of American girl girl anxious in the furnace, and the bitter cries. The mouse ran out and tell her "": "":
+
+ 
+
+Girl, girl, what are you crying for? Let clover; We say "dobren′ko": "":.
+
+ 
+
+She gave them a clover. 
+
+ 
+
+"": "": And behold-they say-you're on every spindle on Jack naprâdi "": "":.
+
+ 
+
+Came the Baba yaga "": "": "": "", "": well,-said-all you pripasla? "": "", "":
+
+ 
+
+And the girls are ready. "": "": Well, now go-rinse me in the bath "": "", "".
+
+ 
+
+Praised the yaga girl and her nadavala of different srâdy. Again the witch is gone and even more difficult to set the target. 
+
+ 
+
+The girl is crying again. 
+
+ 
+
+Run mouse "": "": "", "": what do you say, red damsel, crying?
+
+ 
+
+Let clover; We say "dobren′ko": "":.
+
+ 
+
+She gave them a clover, but they again have taught her what to do and how to do it. 
+
+ 
+
+Baba yaga again, coming, her praised and gave srâdy ... And the wife sends husband visit, whether his daughter is still alive?
+
+ 
+
+ 
+
+ 
+
+Drove a man; arrives and sees that the daughter of a rich-prebogataâ has become. Yagi was not at home, he is vzâd it with you. 
+
+Drives up to his village and House dog and breaks "": "":
+
+ 
+
+"": "", "": Ham, ham, ham! Barynû, barynû are taken! "": "", "":
+
+ 
+
+Stepmother came out and Yes rock dog. 
+
+ 
+
+"": "", "": Lying,-said-tell "": "": in box bone rattle! "" "": "": and all their little dog. Arrived. Stepmother and chases her husband and daughter in the same drive. Drove a man.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Here are the Baba yaga set her work, and she was gone. Devki and bursting with frustration and cries. Mouse run out. 
+
+ 
+
+"": "", "": Damsel, damsel! What do you say, cry? "": "":
+
+ 
+
+But it did not give them a mouthful, then the toe slalloj, then another; with them and provozilas′, and it is not pridelela. Yaga came, got angry. Another time again;
+
+ 
+
+yaga izlomala it, yes the bones in the box and sklala.
+
+ 
+
+Here's a mother sends her husband for his daughter. Father came and took one brush. 
+
+ 
+
+Approaches to the village, and the dog barks again on the porch "": "": 
+
+ 
+
+"": "", "": Ham, ham, ham! In the box of bone are taken! "": "":
+
+ 
+
+The wife runs with a rolling pin "": "": 
+
+ 
+
+"": "", "": Lying,-said-tell "": "":
+
+ 
+
+barynû are taken! "": "":
+
+ 
+
+A dog all of his "": "":
+
+ 
+
+"": "", "": Ham, ham, ham! In box bone rattle! "": "":
+
+ 
+
+Came the husband; </Return>
+
+<Epilogue>
+
+ then my wife howled with! Here is the tale, fairy tale, and you and me krinka. </Epilogue>
+
+ 
+
+ 
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
+
+ 
+
+
+
+
+
+
