@@ -1,0 +1,656 @@
+
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!-Propp says:->
+
+<!-95: I: A9 B5 D1 E1 f1 Return
+
+ II: a6 B2_5 C Departure D1 E_1 F = Return->
+
+<!-last edited-05.20.2002->
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<Corpus>
+
+ < Folktale Title = "Morozko" NewAfanasievEditionNumber = "95" >
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+ 
+
+Zhili-byli starik so the old woman. 
+
+ 
+
+The old man with the Y staruhoû had three daughters. </InitialSituation>
+
+ <PrelimMisfortune> 
+
+ 
+
+Elder daughter she loved (it was her step-daughter), počastu its žurila, 
+
+ 
+
+early awoke me and all of the BOT on it's disabling. 
+
+ 
+
+Girl cattle poila-kopmila, firewood and voditsa in house, oven commit, rites, drown House chalk and everything cleaned up before the light; 
+
+ 
+
+but a hundred of the movement and there was no dovol′na and NA Mapfušy grumbled: 
+
+ 
+
+"Èkaâ èkaâ, a girl who was lazy slob! And holik is not in place, and it's not worth it, and weed in the hut. 
+
+ 
+
+The girl was silent and the PLA's Cala; 
+
+ 
+
+She was trying to her stepmother unorovit′ and daughters of her serve. 
+
+ 
+
+but the sisters, looking at her mother, Marfušu in all ways, with her vzdopili and cry was: 
+
+ 
+
+they and any of it! 
+
+ 
+
+They later stood up, I washed up, clean water of dishcloths and polotencem for sat, when the hosts. 
+
+ 
+
+Here are our damsel posli Yes grew hundred of large and became nevestami. 
+
+ 
+
+Soon the tale has not soon deal is done. 
+
+ 
+
+The old man was sorry for the eldest daughter;
+
+ 
+
+ He loved her for what was poslušlânaâ Yes, no nikogda uprâmilas′ industrious, that make them feel happy at, preparing, and done, and what words are not perekorila; 
+
+ 
+
+Yes do not know old man than v. grief. 
+
+ 
+
+He was an old vorčun′â Hill, and her daughters lenivicy and uprâmicy. 
+
+ 
+
+Here are our stapiki became the Duma think: 
+
+ 
+
+the old man-like daughters of the build, and the old woman-like upper with hand cbyt′. 
+
+</PrelimMisfortune>
+
+ </Preparation>
+
+ < Villainy subtype = "Expulsion" >
+
+One day an old woman and old man says: "Hy, old man, give Marfušu zamyž". - 
+
+ 
+
+«Ladno ", said the old man and the pobpel yourself on the stove: 
+
+ 
+
+and old woman after him: 
+
+ 
+
+"Tomorrow, rise, old man, you are a poran′še, zaprâgi Mare, drovni and go with Marfutkoj; 
+
+ 
+
+and you, Marfutka, soberi korobejky goodness in your nay be nakin′, gets only a small ispodku:
+
+ 
+
+ tomorrow you go! " 
+
+ 
+
+Good Mapfyša is happy to be such a happiness that would take her to visit cladko and slept for the man; 
+
+ 
+
+early in the morning got up, washed, God pomolilac′, all assembled, put, put herself on course, and was the girl-kudy bride! 
+
+ 
+
+And delo was in winter, and the yard was a creaky frost. 
+
+ 
+
+The old man Hautro, neither light nor Zarya, harnessed the Mare to drovni, podvel to the front porch; 
+
+ 
+
+He came into the hut sat on Konik and said: 
+
+ 
+
+"Well, I'm all set to deal! 
+
+ 
+
+-"Caditec′ for da žrite!" said the old woman. 
+
+ 
+
+The old man sat behind the desk and daughter never posadil; 
+
+ 
+
+bread was on the table, he took out the people of pan and break bread, and dočepi. 
+
+ 
+
+And the old woman meanwhile filed a platter of old and said: 
+
+ 
+
+"Well, Yes, eat golybka get out, I take thee naglâdelas′!
+
+ 
+
+ The old man uvezi Marfutku of the groom; 
+
+ 
+
+Yes motri, 100-300 poezžaj, Turkish nationalist gave a direct route, and there
+
+the return from the road-then right onto bord, you know, right down to the big pine tree that stands on the Hill, and then give it to Marfutku for Freezing.
+
+ 
+
+Ctapik vytapaŝil eyes, razinul mouth and stopped either, and the girl wailed. 
+
+ 
+
+"Hy what nurses-the raspusti-la! After all, the bridegroom is handsome and rich!
+
+ 
+
+Motri-Ka as it good: 
+
+ 
+
+all Christmas trees, Birch and mâdny Pooh; 
+
+ 
+
+life is great, and it was! ".
+
+ 
+
+ 
+
+Old man silently uklal swag, ordered his daughter to throw šubnâk and Pu-stilsâ. 
+
+ 
+
+How long was driving, whether soon arrived-not knowledge: skopo tale effect not soon deal is done. 
+
+ 
+
+Finally got to pine forest, its rotil of the road and set off. 
+
+ 
+
+Directly on point snegom; 
+
+ 
+
+zabpavšis′ in the wilderness, stopped and told his daughter to climb down, the left under a huge pine korobejku and said, "Sit and wait for the bridegroom, motri-prjnimaj, 1st lacko. 
+
+ 
+
+And after zavorotil a horse and go home. 
+
+ 
+
+ 
+
+ Girl sitting Yes trembles; 
+
+ 
+
+Oznob her ppobpal. 
+
+ 
+
+She would howl, and Yes force was some teeth just clap. 
+
+</Villainy>
+
+ < DonorFunction subtype = "TestOfHero" >
+
+ Bdpyg hears: Hevdalke Frost on elke crackling with elki Christmas poskakivaet da poŝelki of ordination. 
+
+</DonorFunction>
+
+ < HeroReaction subtype = "SustainedOrdeal" >
+
+He found himself on a pine tree, under koëj the girl is sitting, and on top it says: "the Heat, the girl?" 
+
+ 
+
+"The heat, the heat, the batûško-Mopozuško!" 
+
+ 
+
+Frost became lower down, more Crackle and poŝelkivat′. 
+
+ 
+
+Rose asked, whether damsel: "the Heat, the girl? Warm those kpacnaâ? " 
+
+ 
+
+De vica is just the spirit moves, but said: "the heat, Morozuško! Warm, batûška! " 
+
+ 
+
+Frost Park; and stronger zaŝelkal and the girl said: 
+
+ 
+
+"The Heat, the girl? Warm red ones? The heat, Sweetheart? "
+
+ 
+
+Okostenevala-a little girl I said, "Oh, my Morozuško!" 
+
+</HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "GiftOfMaterialNature" >
+
+Here Mopozko took pity, okutal damsel šubami and was a duvet. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The old woman in the morning her husband says: "Go, old Turkish nationalist gave a Yes of gut-Molo BUDi!»
+
+ 
+
+Old man harnessed the horse and rode.
+
+ 
+
+ Pod″ehavši to the daughter, he found her living in her fur coat, Veil expensive and good box with rich gifts. 
+
+ 
+
+Without saying a Word,
+
+ 
+
+ stapik folded all who sat with her daughter went home. 
+
+</AcquisitionOfMagicalAgent>
+
+ <Return>
+
+Came home, and the girl's legs her stepmother Buch. 
+
+ 
+
+The old woman izumilas′ as I saw a girl live, a new fur coat and linen box. 
+
+ 
+
+</Return>
+
+ </Move>
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+ "Uh, bitch, will not disappoint me. </InitialSituation>
+
+ </Preparation>
+
+ 
+
+ < ConnectiveIncident subtype = "Dispatch" >
+
+The old woman says a bit later, Bot the old man: 
+
+ 
+
+"Take-my-Ka and the čerej of the groom; It is not yet so odapit! "
+
+</ConnectiveIncident>
+
+ <Departure>
+
+ Soon it becomes soon a fairy tale effect. 
+
+ 
+
+Here's an early morning children's nakopmila and how to tie the knot dressed and go let go. 
+
+ 
+
+The old man in the same way left the girls under sosnoû. 
+
+ 
+
+Our girls are sitting Yes laugh: 
+
+ 
+
+"It's primarily designed by mother-vdpyg both èamuž given? 
+
+ 
+
+Is it in our village there guys!
+
+ 
+
+ Incite hell will come, and you do not know kakoj!»
+
+ 
+
+The girls were in šybnâkax, and here it was chilly. 
+
+ 
+
+"What Papaha? I podipaet the creeps. 
+
+ 
+
+Well, as the husband-to-be-finished is not coming, so we are here okoleem. 
+
+ 
+
+ -"Complete maška, vpat′! If early suitors are collected; 
+
+ 
+
+and now there is Lee and lunch in the courtyard. 
+
+ 
+
+"And that, Papaxa, come one, whom he will take?" 
+
+ 
+
+"Not you, duriŝe?"-"Yes, you"-motri 
+
+ 
+
+"of course, me. 
+
+ 
+
+"You! Full, you cyganit′ so vpat′! "
+
+ 
+
+</Departure>
+
+ < DonorFunction subtype = "TestOfHero" >
+
+Morozko girls hands oznobil and our damsel had marched hand in sinus nay again for the same. 
+
+ 
+
+"Oh, zaspannaâ poža, bad tressâ, bad snout! 
+
+ 
+
+Spin you, do you know how to, and sort through and not smysliš′.
+
+ 
+
+"Oh you, bluffer! Did you know?
+
+ 
+
+ Tol′ko on besedkam go lick da Xia. 
+
+ 
+
+Let's see who ckopee voz′met! "
+
+ 
+
+ So girls pastabapivali and všutku ozâbli;
+
+ 
+
+ all of a sudden they said in one voice: 
+
+ 
+
+"Koi hranci! That long nejdet?
+
+ 
+
+ Biš′ you, posinela! "
+
+ 
+
+That's far away and Crackle began to Frost a Christmas tree at the Christmas tree poskaki-to da poŝelkivat′.
+
+ 
+
+ Devicam heard that someone goes. 
+
+ 
+
+ "Chu, Paraha, rides, and kolokol′com. 
+
+ 
+
+-Go away, bitch! I'm not clyšy, I Frost fleeces.
+
+ 
+
+-"And another married narohtiš′sâ!" 
+
+ 
+
+And pal′cy otduvat′. 
+
+ 
+
+Morozko closer so close; 
+
+ 
+
+finally found myself on a pine tree, the tale of the nad. 
+
+</DonorFunction>
+
+ < HeroReaction subtype = "SustainedOrdeal" >
+
+He devicam says:
+
+ 
+
+ "You Heat devicy? Keep warm to you, Red? Keep warm, my golybuški? " 
+
+ 
+
+-"Oh, Frost, hurt, studëny! 
+
+ 
+
+We have frozen, waiting for the fiancé, and he, okaânnyj, perished. 
+
+ 
+
+Frost became lower down, more Crackle and poŝelkivat′. 
+
+ 
+
+"Do you girls Heat? Do you heat, Kpasnye? "
+
+ 
+
+ -You go to hell! Is it blind just our hands and feet otmerzli. 
+
+ 
+
+Morozko even lower down, heavily priudaril and said: 
+
+ 
+
+«Heat you girls? "
+
+ 
+
+ -"Get out to all the dogs in the maelstrom, sgin′, okaânnyj!" and the girl okosteneli. 
+
+ 
+
+The next morning the old woman the husband says: 
+
+ 
+
+"Zapragi-Ka do you, old man, poševënki;
+
+</HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "CruelRetribution" >
+
+put the ohabočku right Yes take skin coat fans.
+
+ 
+
+Tea girls-priozâbli; 
+
+ 
+
+the dvope-the dreaded Frost! 
+
+ 
+
+Yes, motpi vopovej, stapyj xpyč! "
+
+ 
+
+The old man is not yciae and have a snack, how was it in the yard and on the dopoge. 
+
+ 
+
+Come for the daughters and finds them dead. 
+
+</AcquisitionOfMagicalAgent>
+
+ <Return>
+
+ He blamed the children poševënki, fan zakutal and wraparound closed.
+
+ 
+
+ The old woman, having an old man izdaleko to vybegala and so it whom: 
+
+ 
+
+"That little children?" 
+
+ 
+
+-"Poševnâh".
+
+ 
+
+The old gunny, alienated fans and kids meptvymi has been removed.
+
+ 
+
+ 
+
+Then the old woman as a thunderstorm broke out and the old razbranila: 
+
+ 
+
+"What have you done, old dog? 
+
+ 
+
+Left you my doček, my blood, my kiddies nenaglâdnyh seeds, my red boys over flowers! 
+
+ 
+
+I love you uhvatom prib′û, kočergoj zašiby! "
+
+ 
+
+ -"Full of old rubbish! 
+
+ 
+
+Just, you're on the wealth of pol′stilas′, and your uprâmicy babes!
+
+ 
+
+ If I am guilty? 
+
+ 
+
+Are you cama zahotela ". 
+
+ 
+
+The old woman poserdilas′, pobranilas′, Yes after padčericeû was reconciled with, and they live Yes be Yes good naživat′, but not pominat′ lixa. </Return>
+
+ < Wedding subtype = "Wedding" >
+
+The svadebku, played sused died, and Martha living happily. 
+
+ 
+
+The old man Morozkom straŝal and yprâmitsâ grandchildren do not give. </Wedding>
+
+ <Epilogue>
+
+I was at a wedding, honey-beer drinking, the CCD was in the pot is not horrible. </Epilogue>
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
+
+
+
+
+
+
