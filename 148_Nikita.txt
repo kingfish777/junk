@@ -1,0 +1,186 @@
+
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!-A1 B2_4 C Departure H1 I1 K4 Return W_ *->
+
+<!-last edited 11.08.2001->
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<Corpus>
+
+ < Folktale Nikita Kozhemyaka "Title =" NewAfanasievEditionNumber = "148" >
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation> near Kiev was snakes, took it from the people of charges 
+
+important: with every yard on the Red devke; take a girl and eat her.
+
+ </InitialSituation>
+
+ </Preparation>
+
+ < Villainy subtype = "Kidnapping" > Come up go to the Snake King's daughter. Grabbed the snake Princess and dragged her to his den, and there it was: 
+
+</Villainy>
+
+ < ConnectiveIncident subtype = "Dispatch" >
+
+ the beauty was, so for a wife for himself. Fly a kite in their promysli, and Princess will overwhelm the logs, not gone. The Princess was a dog, uvâzalas′ with her from home. Write a little note to the Princess, father with mother, to force the dog to the neck; and that will run in the right places, and the answer still will bring. Here are the times the King with Queen and wrote to the Princess: find out who is the snake? 
+
+ 
+
+The Princess has become more communicative to his snake, he became press him, who his stronger. 
+
+ 
+
+He did not say Yes and spill the beans that lives in the city of Kiev-the Tanner and his stronger.
+
+ 
+
+Heard about the Princess, wrote to the father:
+
+ 
+
+syŝite in Kiev Mikita Kožemâku Yes send it me to rescue from captivity.
+
+ 
+
+ 
+
+ </ConnectiveIncident>
+
+ <ConsentToCounteraction>
+
+ The King, having received such news, Nikita Kožemâku won the da went to ask him to release his land from the absolute snake and the vyrucat′ Princess. 
+
+ 
+
+ In that time the skin mashed, Nikita was holding it in his hands dvenacat′ leathers; 
+
+ 
+
+ as he saw it, that the King himself came to him, shaking with fear, he began to shake hands and ripped it those twelve hides. 
+
+ 
+
+Yes slol′ko no entreated King with Queen Kožemâku never went as a snake. 
+
+ 
+
+ 
+
+That's up to collect five thousand children young, and forced them to ask the Kožemâku: maybe on their tears sžalobit′sâ! 
+
+ 
+
+Came to Nikita the young, were in tears to ask as he was walking to a snake. 
+
+ 
+
+Shed a tear and Nikita Kozhemyaka, their tears looking. 
+
+ 
+
+Took three hundred pounds of hemp, nasmolil smoloû and the whole is wrapped to snakes ate, and went at it. 
+
+</ConsentToCounteraction>
+
+ <Departure>
+
+ Nikita is the den zmejnoj and snakes had locked and does not go to him.
+
+ </Departure>
+
+ < StruggleVictory subtype = "FightInOpenField" >
+
+ <Struggle>
+
+"Come out better in a clear field, den razmeču!"
+
+ 
+
+Kozhemyaka said and began to break down the door. 
+
+ 
+
+Snakes, seeing trouble neminučuû, came to him in a clear field. 
+
+ 
+
+How long does briefly fought with the kite Nikita Kozhemyaka, only pushed the snake. 
+
+ 
+
+Here the serpent was praying Mikita: 
+
+ 
+
+"Don't beat me to death, Nikita Kozhemyaka!
+
+ 
+
+Stronger us with you into the light; divide the entire earth, the whole world equally: 
+
+ 
+
+you will live in one half and I in another. - 
+
+ 
+
+"Good," said Tanner,-must be between the lead. "
+
+ 
+
+Did Nikita Sohu in three hundred pood, harnessed her snake, and was from Kiev between poprahivat′;
+
+ 
+
+Nikita held furrow from Kiev to the sea Kavstrijskogo. 
+
+ 
+
+Well, said the snakes, we now all the land razdedili!
+
+ 
+
+The land was divided, "said Mikita, sea-let's share, and then you say that your water take.
+
+ </Struggle>
+
+ <Victory>
+
+ Entered in the middle of the sea serpent, Nikita Kozhemyaka killed and drowned him in the sea.
+
+ </Victory>
+
+ </StruggleVictory>
+
+ <Return>
+
+This furrow is now visible; 
+
+ 
+
+feet and furrow two fathoms. 
+
+ 
+
+Its plowed her furrow, and touch, and who does not know what the furrow-calls her shaft.
+
+ 
+
+Nikita Kozhemyaka, sdelavši Holy work, not picked up for nothing, went again skin crumple.
+
+ </Return>
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
+
+ 
