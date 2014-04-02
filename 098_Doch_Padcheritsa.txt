@@ -1,0 +1,311 @@
+
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!-last modified by Scott a. 08.10.2002 Malec
+
+-->
+
+<!-Propp says: I: A9 B5 D1 E1 f1 Return Departure
+
+ II: a6 D1 Departure B2_5 E-F = Return
+
+-->
+
+<!-This tale forms part of a suite of tales
+
+ of the Aarne-Thompson type 480 in Afanas'ev's 
+
+the collection (vide PG. 439 of Afanasyev vol. III for
+
+ a complete listing of tales by their respective AT # 's). ->
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<Corpus>
+
+ < Folktale 98 "Title =" NewAfanasievEditionNumber = Podčerica "and" daughter of ProppConformity = "Yes" AT = "480" >
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+Married man widowed with dočkoû the widow-with dočkoû </InitialSituation>
+
+ <PrelimMisfortune>
+
+and they had two daughters summary. 
+
+ 
+
+La Nena-be stepmother vistnaâ;
+
+</PrelimMisfortune>
+
+ </Preparation>
+
+ < Villainy subtype = "Expulsion" >
+
+rest does not give the old man:
+
+"Vezi his daughter in a forest in the dugout!
+
+ 
+
+It there any more naprâdet. "what to do! 
+
+</Villainy>
+
+ < ConnectiveIncident subtype = "Dispatch" > 
+
+Poslušal Babu, man 
+
+</ConnectiveIncident>
+
+ <Departure>
+
+svez daughter in the dugout and gave her a ognivko, kremešik, da mešoček cereals and labour says:
+
+ </Departure>
+
+ < DonorFunction subtype = "TestOfHero" >
+
+ 
+
+ 
+
+ "You light; Twinkle does not translate, mashed wari, and Sidi Yes strands, so House-pripri ".
+
+ 
+
+Ppišla night. 
+
+ 
+
+Devka flooded pečurku, zavarila porridge, from nowhere mouse and says: 
+
+ 
+
+The Damsel, devica, give me a spoon of gruel. 
+
+ 
+
+"Oh my myšen′ka! Razbaj my boredom; 
+
+ 
+
+I'll give not one spoonful of porridge, and satiety can feed. " 
+
+ 
+
+The mouse ate and left. 
+
+</DonorFunction>
+
+ < HeroReaction subtype = "SustainedOrdeal" >
+
+Night of milsâ SLD bear. 
+
+ 
+
+«Hyka, 
+
+deuška,-said-the Hulk, davaj in žmurku
+
+play ".
+
+ 
+
+The mouse ran on the shoulder of the damsel and Whispers in the ear: 
+
+ 
+
+"Don't be scared, girl! Say: come on! and the carcasses of fire Yes under the 
+furnace for a pound, and I'm running around and the Bell ringing. 
+
+ 
+
+And became. 
+
+ 
+
+Chasing the bear for myškoû-no catches; a roaring Yes throw logs; 
+
+ 
+
+threw-thrown, 
+
+</HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "GiftOfMaterialNature" >
+
+Yes got tired and that'll send you in the morning, a herd of koneida was good.
+
+</AcquisitionOfMagicalAgent>
+
+ <Return>
+
+Wife says: "Poezžaj provedaj-Ka, the old man's daughter that she spun in the night?"
+
+ 
+
+Left for the old man and woman sitting Yes awaits: somehow it child bone will bring! 
+
+ 
+
+Here's a doggy "Tâf, tâf, tâf! 
+
+ 
+
+With the old man's daughter rides, a herd of horses, who chases good luck. "
+
+ 
+
+"You're lying, šafurka! 
+
+ 
+
+It's in the back of the dice rattle Yes pogroms hivaût. "
+
+ 
+
+ 
+
+Here's a gate zaskpipeli nadvor vbežali, horses, and a daughter with his father sitting on the cart: 
+
+ 
+
+who is full of goodness! By Baba on žadnosti up your eyes burn. </Return>
+
+ </Move>
+
+ <Move>
+
+ <!-Propp here says that there is an a6, or a lack 
+
+of some sort. If there is, it is not explicitly stated 
+
+in the text, so we procede? right on to B2, connective 
+
+incident dispatch-suptype->
+
+ < ConnectiveIncident subtype = "Dispatch" >
+
+"Èkaâ importance! -screams. -
+
+ 
+
+Povezi-my daughter into the Woods at night; 
+
+ 
+
+my daughter is two herds of horses prigonit, two Cartloads of good pritaŝit.
+
+</ConnectiveIncident>
+
+ <Departure>
+
+Took a man and his daughter in the dugout and alexeyevich Babin also dispatched her and edoû and fire. </Departure>
+
+ < DonorFunction subtype = "TestOfHero" >
+
+On the evening of zavarila it's porridge. 
+
+ 
+
+Left mouse and have the clover requests taški. 
+
+ 
+
+And Nataŝka yells "Iš′, Ghada!» 
+
+ 
+
+And švypnyla it with a spoon. 
+
+ 
+
+Myška ran away; 
+
+ 
+
+and Hataška upisyvaet one cereal, ate, the lights of la pozadu and corner prikornula. </DonorFunction>
+
+ < HeroReaction subtype = "SustainedOrdeal" >
+
+Midnight came and broke the bear and says: 
+
+ 
+
+"Hey, where are you, girl? Come on in žmurku poigpaem ".
+
+ 
+
+ The girl is silent, only with the fear of teeth knocking. 
+
+ 
+
+"Ah, that's where you are! Bell run, and I will catch. 
+
+ 
+
+Took kolokolčik, the hand trembles, kololol′čik bespereč′ sounds, and mouse reviews, by: 
+
+</HeroReaction>
+
+ < AcquisitionOfMagicalAgent subtype = "CruelRetribution" >
+
+"Evil maid not be alive!"
+
+</AcquisitionOfMagicalAgent>
+
+ <Return>
+
+The next morning the old man into the Woods, Baba sends: 
+
+ 
+
+"The Go! My daughter two Cartloads of prive ­ z, two herd ppigonit. 
+
+ 
+
+The man left, and Baba outside the gate waiting for. Here's a doggy: 
+
+ 
+
+«Tâf, tâf, tâf! Hozâjkina daughter rides-body bones is booming, and the old man to empty the cart sits.
+
+ 
+
+"You're lying, you šavčonka! 
+
+ 
+
+My daughter chases and herds carts carrying ". 
+
+ 
+
+Suddenly-the old man at the gate of the wife-takes; 
+
+ 
+
+Ku-Baba zovok opened, she looked at the bones he wailed, angrily, that the grief and anger on the other day she died; 
+
+ 
+
+and the old man with the good living out dočkoû and 
+
+</Return>
+
+ < Wedding subtype = "Wedding" >
+
+a son-in-law to her house has </Wedding>.
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
+
+ 
