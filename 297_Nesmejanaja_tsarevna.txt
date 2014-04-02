@@ -1,0 +1,270 @@
+
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!-Propp says:->
+
+<!-I: A12-11 B-7 C Departure Ex M N U K8 w2->
+
+<!-Commentary->
+
+<!-- -->
+
+<!-- -->
+
+<!-last edited 11.08.2001->
+
+<!--  -->
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<!-- 
+
+For an interesting survey of the import of this mythological tale 
+
+(particularly, the motif of laughter, referring to Vladimir Propp's (1997)
+
+ _Theory and History of Folklore_ (TRANS. by Ariadna y. Martin and 
+
+P. Martin, ed. by Anatoly Liberman. Minneanapolis. The University of 
+
+Minnesota Press. ppg. 124-146. "Ritual Laughter in Folktales 
+
+(A Propos of the Tale of the Princess Who Would Not Laugh 
+
+[Nesmeiana] ">
+
+<Corpus>
+
+ Folktale Title = "< Nesmeânaâ-Princess" NewAfanasievEditionNumber = "297" AT = "842" 559 "ProppConformity =" Yes ">
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+ 
+
+ As you think, where the great light of God! Live in it people are rich and poor, and all of them spacious and all their priziraet and looks at the Lord. Live the luxury-and celebrate; live miserable-and work; to each their own share!
+
+ </InitialSituation>
+
+ </Preparation>
+
+ < Lack subtype = "OtherFormsOfLack" > 
+
+In the King's Chambers, the knâž′ih Palace, in the high teremu flaunted a Nesmeânaâ-Princess. What she was living what freedom, what Roscoe š′e! Whole lot, all there, what the soul wants to; and never not smiling, never laughed, as if her heart have not rejoiced.
+
+ </Lack>
+
+ < ConnectiveIncident subtype = "CallForHelp" >
+
+ Bitter was the King-father to look at sad daughter. He opens his Royal Chamber for those who poležaet to be his guest. "Let it be said, trying to cheer up Atlantis-Princess; who will, she will be his wife. Only it's dropped, as people have begun to boil knâž′ih gate! From all sides, go, go-and careviči and knâževiči and boyars and noblemen, regimental and simple; Honey poured down feasts, began-Princess all laughs.
+
+ </ConnectiveIncident>
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+ At the other end in his corner lived an honest worker; in the morning he cleaned the yard, in the evenings, in the unremitting pasal cattle was writings. 
+
+ 
+
+</InitialSituation>
+
+ </Preparation>
+
+ < Lack subtype = "LackOfMoney" >
+
+ His boss-man rich, truthful, plataû not offended. 
+
+ 
+
+Only pokončilsâ a year, he was a bag of money on the table. "Take it," said slol′ko! "and the door and stepped out. The employee came to the table and thinks: how would not sin before God, not to put too much work? Chose only one coin, squeezed it into a handful of Yes and watched water to drink, bent down in the well-denežka the vykatilas′ and potinula to the bottom.
+
+ 
+
+ 
+
+Remained poor. The other would be in its place, zatužil and wept with frustration hands folded, and b it's not. "Everybody says, God sends; Lord knows what to whom cash an with recent takes. You can see I am evil račil, a little labored, going harder! " 
+
+ 
+
+And again for work-every business in his hands the fire lit! Ran out of time, a year has passed, the owner of the bag of cash on the table: "take it," said slol′ko-soul wants! "and the door and stepped out.
+
+ 
+
+Employee orât′ thinks that God did not prognevit′ for work lešnego not put; took devnežku, went to get drunk and accidentally made out of hand-denežka in the well and drowned.
+
+ 
+
+It was even harder for work: night nedosypaet, day of the malnourished. 
+
+ 
+
+He was regretting his lost: one bread dries, turns yellow and his hohâina all buteet; whose cattle leg curl, and his brykaet Street;
+
+ 
+
+whose horses downhill being dragged, and it does not contain.
+
+ 
+
+This razdumel, who to thank, to whom thanks talk. Over time, passed the third year, he had a bunch of money on the table:
+
+ 
+
+Buy rabotniček how many soul wants to; your work, your and denga! ", and the left won.
+
+</Lack>
+
+ < LiquidationOfLack subtype = "AcqThroughPreviousActions" >
+
+Again, one worker takes money, goes to kolodezû water to drink-turned: last denga intact, and the previous two came up. 
+
+ 
+
+He was picked up by them, guessing that his God for his work napradil; </LiquidationOfLack>
+
+<Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+relieved and thinks: 
+
+"I Bel light look people recognize!" gave her a coin </InitialSituation>.
+
+</Preparation>
+
+ 
+
+ <!-Here, none none painting generous our Hero meets his Helpers ...->
+
+ 
+
+ 
+
+ <Departure>
+
+ 
+
+ 
+
+ 
+
+ 
+
+Is forest, </Departure>
+
+ 
+
+ 
+
+< DonorFunction subtype = "OtherRequests" >
+
+ crawling bug: "Kovalek, my dear gossip! Gimme some money; I'll be of himself! "</DonorFunction>
+
+ 
+
+< HeroReaction subtype = "SustainedOrdeal" >
+
+Emj and gave money. 
+
+</HeroReaction>
+
+ 
+
+< DonorFunction subtype = "OtherRequests" >
+
+Swam the River, met som: "Kovalek, my dear gossip! Gimme some money; I'll be of himself! "</DonorFunction>
+
+< HeroReaction subtype = "Seperation" >
+
+ 
+
+He and others did not, last gave up.
+
+ 
+
+ 
+
+ 
+
+ 
+
+He came to town; There, the doors! Zaglâdelsâ, spun around to all the worker where to go-do not know. 
+
+ 
+
+(A) it has Royal Chamber, srebrom gold ubraty, window-Princess and Dragon sits and stares directly at him.
+
+ 
+
+Where to go?
+
+ 
+
+Disappeared in his eyes, he found a dream, and he fell right into the dirt. 
+
+ 
+
+ Where did not come from som with a capable, followed by bug-oldie, mouse-haircut; all came running.
+
+</HeroReaction>
+
+ 
+
+ 
+
+ < AcquisitionOfMagicalAgent subtype = "HelperOffersServices" > 
+
+Take care, take care: platnice removes the mouse, beetle sapočki com husband cleans and drives away. 
+
+ 
+
+ 
+
+ 
+
+ </AcquisitionOfMagicalAgent>
+
+ </Move>
+
+ </Move>
+
+ 
+
+ 
+
+ < LiquidationOfLack subtype = "BreakingOfSpell" >
+
+ 
+
+ Staring-looked at their facilities and sasmeâlas′-Princess and Dragon.
+
+ 
+
+"Who, who cheered my daughter?" asked the King.
+
+ </LiquidationOfLack>
+
+ <ClaimsOfFalseHero> He says: "I"; the other: "I". -</ClaimsOfFalseHero>
+
+ <RecognitionOfHero>-"no!"-said-Princess and Dragon. -"Vaughn the man!" and pointed to the worker before the Royal face fellow-stiff upper lip! </RecognitionOfHero>
+
+ < Wedding subtype = "Wedding"/>
+
+ <Epilogue/>
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
+
+ 
