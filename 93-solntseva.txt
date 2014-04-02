@@ -1,0 +1,457 @@
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!-edited with XML Spy v3. 0.7 NT (http://www.xmlspy.com) 
+
+by Scott a. Malec (Univegsity of Pittsbuggh)->
+
+<!-last edited-02.18.2002->
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<Corpus>
+
+ < Folktale Title = "Witch and Solntseva sister" NewAfanasievEditionNumber = "93" >
+
+ <Move>
+
+ <!-Information concerning Villainy or the Actual Villainy talk 
+
+about connectives on pg. 155->
+
+ <Preparation>
+
+ <InitialSituation> in nekotopom Kingdom, the distant State, 
+
+There once was a King with a Queen, they had a son 
+
+Ivan Tsarevich, the sort of dumb. He was twelve years old, and so he went every 
+
+the stable to his konûhu. 
+
+</InitialSituation>
+
+ </Preparation>
+
+ < Villainy subtype = "ThreatOfCannibalismAmongRelatives" > Sice this told him zavsegda
+
+ fairy tales and Prince Ivan came to listen to him-stories, not heard. 
+
+ 
+
+"Ivan Tsarevich! -hostler said. ­
+
+ 
+
+-Your mother's daughter, and soon your sister; 
+
+ 
+
+It will be a terrible witch, eats and his father and mother, and all of the initial people; "come, ask the father
+
+and what is the best horse-like ride, and go otsûdova aimlessly if you want 
+
+from trouble to get rid of. "</Villainy>
+
+ < ConnectiveIncident subtype = "Release" > Prince Ivan kotcu and ran with the genus
+
+ first time spoke to him; so the King rejoiced that did not and 
+
+ask: why would he the good horse nadoben? Immediately ordered that neither a 
+
+the best horse of his herd to ride for the Prince. 
+
+ 
+
+</ConnectiveIncident>
+
+ <Departure>
+
+Prince Ivan villages and drove aimlessly.
+
+ 
+
+ 
+
+For a long time he was driving; hit on two old seamstresses and requests, so they took it with them live. 
+
+The old woman said: "we would be happy to take you; Prince Ivan, yes we have a few live. Here is the dolomaem 
+
+chest needles yes probably can be.
+
+Izoš′em Roost chest fingers thread immediately and death come! "cried and Prince Ivan
+
+drove on.
+
+ </Departure>
+
+ <!-d7->
+
+ <!-E7.neg->
+
+ <!-F neg->
+
+ </Move>
+
+ <Move>
+
+ <Preparation>
+
+ <!-the torture! eta zeta->
+
+ </Preparation>
+
+ < Lack subtype = "OtherFormsOfLack" >
+
+ <!--Pursuit-Rescue->
+
+ Long-long drove, approaches the Vertodubu and asks: "Take me!"
+
+ -"Glad you take, Prince Ivan, yes I live a bit. 
+
+ 
+
+Here's how povydernu all these dyby c roots-­ immediately and my death! " 
+
+ 
+
+Pushcha old cried Prince and went all in on Yes on.
+
+ 
+
+ Drives up to Vertogoru; 
+
+ 
+
+his request, and he answers: 
+
+ 
+
+I am glad to take you, Prince Ivan, yes I live a little. 
+
+ 
+
+You see, I am turning my mountains; 
+
+ 
+
+How to cope with these date-MI-here and my death! " 
+
+ 
+
+Prince Ivan burst bitter tears and went even further.
+
+ 
+
+Long-long was driving; Finally, come to Solncevoj sestrice. 
+
+ 
+
+It had its own, fed-served as the native son went. 
+
+ 
+
+It was good to live Prince and all no-no 's, and sgrustnetsâ: 
+
+ 
+
+want to find out what the native house hoped? 
+
+ 
+
+Rise, sometimes on the high mountain, look at his palace and sees 
+
+all eaten, only walls ostalisâl 
+
+ 
+
+Sigh, no cries. 
+
+ 
+
+Once they looked so wept-ran and Solntseva sister asked:
+
+ 
+
+ 
+
+ "Why are you, Prince Ivan, now in tears?" 
+
+ 
+
+He said: "the wind blew in the eye". 
+
+ 
+
+Another time again; 
+
+ 
+
+Sun's Moscow office focal sister took da and banned wind blowing. 
+
+ 
+
+And the third time he recovered Prince Ivan zaplakanyj; 
+
+ 
+
+Yes do nothing-had all recognized, and he was asking 
+
+Solncevu sister, to let him go, good fellow, home ponavedat′sâ. 
+
+ 
+
+She doesn't want to let him, and he asks; 
+
+ 
+
+Finally begged, let him go home ponavedat′ Xia and gave him the brush
+
+comb and two youthful Bullseye; 
+
+ 
+
+whatever the old man, and will eat an Apple and instantly rejuvenate!
+
+ 
+
+ 
+
+ 
+
+Prince Ivan came to Vertogoru, just one mountain remains; 
+
+ 
+
+He took his brush and threw in a box: 
+
+ 
+
+where did not come suddenly grew out of the land of high-high mountains, tops in the sky stopped; 
+
+ 
+
+and how many of them there-apparently-nevidnmo! 
+
+ 
+
+Vertogor happy and fun set to work. 
+
+ 
+
+How long does, in brief-Prince Ivan came to Vertodubu, only three oak ostalosâ; 
+
+ 
+
+He picked up a comb and threw in a box: where did that suddenly have rustled up out of the land of 
+
+thick oak forests, wood wood thicker! 
+
+ 
+
+Vertodub blagodarstvoval Prince was glad and went a hundred year old oak trees twisted. 
+
+ 
+
+How long does short, Ivan-tsarevitch came to Luhansk, gave them the gills; they ate,
+
+suddenly in Moscow and presented him hustočku: as mahneš′ decided-is behind the whole Lake!
+
+ 
+
+ </Lack>
+
+ < HeroReaction subtype = "PerformanceOfService"/>
+
+ </Move>
+
+ <Move>
+
+ <Preparation>
+
+ <!-eta1->
+
+ </Preparation>
+
+                          <!-- *** -->
+
+ < Villainy subtype = "ThreatOfCannibalismAmongRelatives" >
+
+ Prince Ivan arrives home. 
+
+ 
+
+ Sister ran out, vstpetila it is golubila: 
+
+ 
+
+ "Sit down," says, "the brother, play on the harp, and I'll go-lunch fix.
+
+ 
+
+ The Prince sat down and strumming on a harp; 
+
+ 
+
+ then Jerry out of the hole and said to him, the human voice: 
+
+ 
+
+ "Escape, Prince, run quickly! 
+
+ 
+
+ Your sister has left teeth grind. 
+
+</Villainy>
+
+ <Departure> Prince Ivan walked out of Gorni-CI, sat on his horse and galloped back; 
+
+ 
+
+and Jerry runs on strings: harp brenčat, and my sister and brother that knows no quit. 
+
+ 
+
+Natočila teeth, throw arrows of the upper room, suddenly-there is not a soul in the hole, Jerry slid only. 
+
+ 
+
+Angry Witch and scraping my teeth, and started pogonoû. 
+
+ 
+
+Prince Ivan who had heard the noise, looked back-is about to catch up the sister;
+
+ 
+
+ 
+
+ 
+
+waved decided-and is the deepest lake.
+
+ 
+
+ While the Witch of Oz ro swam, Prince Ivan far left. 
+
+ 
+
+Here we go it is bystpee ... that's really close! 
+
+ 
+
+ Vertodub guessed that Prince from his sister escapes, and let's pull up the Oaks road cut; Yes
+
+ 
+
+ a mountain nakidal! 
+
+ 
+
+No witch passage!
+
+ 
+
+ She was the path to clean, nibbled-nibbled, nasilu prodra ­ were turned, and Prince Ivan too far. 
+
+ 
+
+Rushed to catch up, drove, drove a little-... and go away! 
+
+ 
+
+Vertogor saw a witch, snatched the highest mountain and turned it on 
+
+Road, and the mountain has put another. 
+
+ 
+
+While the witch climbed Yes huffed, Prince Ivan rode and rode far found myself.
+
+ 
+
+Moved through the Mountain Witch and again fled for his brother. Zavidela him and said: 
+
+"Now no escape from me!" 
+
+ 
+
+Here is a close up, here's the catch up! </Departure>
+
+ < StruggleVictory subtype = "Weighing" >
+
+ <!--Weighing of souls-see Egyptian Book of the Dead->
+
+ <Struggle>
+
+ At the same time, Prince Ivan podskakal to teremam 
+
+Solncevoj brother and cried: "Sun, Sun! Lord ferrule. 
+
+ 
+
+Solceva Sister opened the window and jumped into the Prince, together with the horse.
+
+ 
+
+ Witch began to ask, so she gave her brother a brain; 
+
+ 
+
+Solceva not listened to her sister and gave.
+
+ 
+
+ Then said the witch, "Ivan Tsarevich comes with 
+
+me on the scale, who will outweigh! 
+
+ 
+
+If I perevešu so I'll eat it, and if it will let me kill! "Went; </Struggle>
+
+ <Victory> first sat on the vecy Prince Ivan, and then
+
+ the witch climbed only stepped foot, as Prince Ivan 
+
+up and went up, Yes with just power that he got 
+
+on the palate, to Solncevoj sister in terema; and witch-snake 
+
+left on Earth. </Victory>
+
+ </StruggleVictory>
+
+ <PursuitRescueOfHero>
+
+ < PursuitOfHero subtype = "FlightThroughAir"/>
+
+ < RescueOfHero subtype = "SomethingThrownInPath" > at the same time 
+
+podskakal Iwai-Prince to teremam Solncevoj Sestri-CI and cried:
+
+ "The Sun, The Sun! Lord ferrule. Solntseva sister opened the 
+
+window, and it jumped into the Prince, together with the horse. The witch has become 
+
+to request that her brother's head was given; Her sister solntseva 
+
+not posluša-la and not issued.
+
+</RescueOfHero>
+
+ </PursuitRescueOfHero>
+
+ < Wedding subtype = "RudimentaryMarriage" > Yes with just power that he is straight
+
+gone to heaven to Solncevoj sister in terema; and witch-snake is </Wedding> on Earth.
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
+
+ 
+
+ 
