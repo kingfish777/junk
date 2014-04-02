@@ -1,0 +1,306 @@
+
+<? xml version = "1.0" encoding = "UTF-8"? >
+
+<!-Propp says:->
+
+<!-- 
+
+100: analysis Propp's: I: A12_11 B7 C Departure Ex M N U K8 w2 
+
+ -->
+
+<!-- 
+
+ 
+
+ last edited 11.11.2001
+
+ -->
+
+<!DOCTYPE Corpus SYSTEM "pftml.dtd" >
+
+<Corpus>
+
+ < Folktale Title = "Krošečka-Havrošečka" NewAfanasievEditionNumber = "100" AT = "511" >
+
+ <Move>
+
+ <Preparation>
+
+ <InitialSituation>
+
+Did you know that there are good people in the world is worse, there are those who are not afraid of God, his brother not ashamed: 
+
+ 
+
+to this and got Kroščečka-havpoŝečka left it orphaned little; These people have taken her, and was brought up to the light of God was not allowed, over rabotoû every day zamudili, zamorili; It delivers, and nribiraet, for all and for all.
+
+ 
+
+ 
+
+And the hostess had three daughters. 
+
+ 
+
+The older title of one-eye, two-eyes average was, 
+
+ 
+
+and smaller-triglazka 
+
+ 
+
+but they only sit at the gate and knew, the street look and Cro-šečka-Havrošečka they worked, their obivala, and spun and wove words of good, and never have. 
+
+ 
+
+Here's a toto and painful poke Yes push is to: 
+
+</InitialSituation>
+
+ </Preparation>
+
+ < Lack subtype = "OtherFormsOfLack" >
+
+and priohotit′ no one so welcoming!
+
+ 
+
+Will be used to Krošečka-Havrošečka in the field that surrounds its ryaba cow will lie to her neck and tells how it was to live-poži-to: 
+
+ 
+
+"Kopovuška matuška! I beat žurât, no bread, no cry told the five pounds by tomorrow morning, naprâst′, natkat′, chalk, at Trou-would be to ride. " 
+
+ 
+
+And korovuŝka her 
+
+ 
+
+"Fair maiden! Climb it to me b one ear and the other vylez′ things will be done. " 
+
+ 
+
+Came to pass, as soon as the fair maiden hut- 
+
+ 
+
+everything is ready: and natkano, and pobeleno, and pokatano. 
+
+ 
+
+Will relate to her stepmother; the poglâdit, pokrâhtit, hide in the chest, and her further work will ask, 
+
+ 
+
+Havrošečka again to korovuške in one ear fit, more cleanly and gotoven′koe will bring,
+
+ 
+
+The old woman, Elena invites wander about, "my daughter is fine, my daughter prigožaâ! 
+
+ 
+
+Doglâdis′, who helps an orphan: and weaves and spins, and the pipe rolls? " 
+
+ 
+
+Went with an orphan one-eye, went with her in a field; forgot the mother but prikazan′e, raspeklas′ Sun, razleglas′na travuške and Havrošečka sentence: 
+
+ 
+
+"Sleep, sleep, eye, eye!" 
+
+ 
+
+Eye fell asleep; 
+
+ 
+
+While One slept, cow and natkala and pobelila. 
+
+ 
+
+Do not doznalas′, stepmother sent two hybrid. 
+
+ 
+
+This too on sol′nyške raspeklas′ and travuške is, maternino prikazan′e forget smežila eyes; and Havrošečka rocks: 
+
+ 
+
+"Sleep, eyes, sleep, another" Cow natkala, pobelila, pipe pokatala; 
+
+ 
+
+but two-eyes still slept.
+
+ 
+
+        .
+
+The old woman angry, on the third day of the Triglazku, and sent an orphan work has given even more, 
+
+ 
+
+and Triglazka, as her older sisters, popryga, La-poprygala and travushka Pala. 
+
+ 
+
+Havrošečka sings: "sleep, eyes, sleep, another!" 
+
+ 
+
+-And on the third I forgot. 
+
+ 
+
+Two eyes fell asleep, and the third looks and sees everything, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+as a fair maiden in one ear, into the other semi, vylezla and ready canvas has picked up. 
+
+ 
+
+All that saw Triglazka mother races, said; 
+
+ 
+
+the old woman was delighted, on another day, came to her husband: 
+
+ 
+
+"Slash spotted cow!" 
+
+ 
+
+The old man taksâk: "what are you, the wife, in your mind? A young cow, good! " 
+
+ 
+
+Cut, and only! 
+
+ 
+
+Natočil knife.
+
+ 
+
+ 
+
+Ran Havrošečka to korovuške; 
+
+ 
+
+«Kopovyška-Matuška! You want to cut. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"And you, fair maiden, don't eat my mâca-bone my collect, tie, handkerchief in the garden of their rassadi and I never remember, každoe morning with water they obtain."
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Havrošečka all cdelala that cow headed to ŝala; 
+
+ 
+
+famine was starving, mâsee in your mouth does not take bone vsadu each day, watered, and grew out of the Apple tree, 
+
+ 
+
+So what is my God! 
+
+ 
+
+Apples on it hang listvicy, liquid gold, noisy sprigs bend silver;
+
+ 
+
+ who rides past the stops, who is close to the one of glâdyvaetsâ, lučilos′ time devuški walked through the garden at that time drove down the field Barin-Ku drevatyj, a rich, young. 
+
+ 
+
+Have seen apples, zatrogal girls: 
+
+</Lack>
+
+ <Task>
+
+ <DifficultTask>
+
+ "Girls-beauties! He says. -Which of you me Bullseye, his marry me go. "
+
+ 
+
+ And three sisters rushed one in front of the other to âblon′ke.
+
+ 
+
+And apples that hung low, under the hands were, and then suddenly climbed upwards, far over the heads of the steel. 
+
+ 
+
+Sisters of Hoth they knock down-leaves eyes fall asleep, thinking sorvaor′ branches of pletaût races spit; 
+
+ 
+
+as neither fought nor were tossing pens izodrali and could not get hold of.
+
+ </DifficultTask>
+
+ subtype = SolutionOfTask < Solution >
+
+ Came Havrošečka, and sprigs of priklonilis′, and apples down. 
+
+</SolutionOfTask>
+
+ </Task>
+
+ < Wedding subtype = "Wedding" >
+
+Barin, married her and became it in good poivat′, evil and not znavat′.
+
+ </Wedding>
+
+ </Move>
+
+ </Folktale>
+
+</Corpus>
+
+ 
