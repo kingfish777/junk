@@ -1,4 +1,3 @@
-
 <? xml version = "1.0" encoding = "UTF-8" standalone = "yes"? >
 
 <!-edited with XML Spy 3.5 NT v (http://www.xmlspy.com)->
@@ -9,7 +8,8 @@
 
 <Corpus>
 
- < Folktale Title = "Bird NewAfanasievEditionNumber" Language = "247" ProppConformity = "Approx" AT = "300" >
+ < Folktale Title = "Bird NewAfanasievEditionNumber" Language = "247" 
+    ProppConformity = "Approx" AT = "300" >
 
  <!-Approx: instead of U Return W * you have a slight 
 
@@ -31,19 +31,32 @@ precocious smyšlenogo, on behalf of Basil. </InitialSituation>
 
  Just as they had lunch together; and over 
 
-stolim hung in a cage so piteously, and Nightingale sang, the merchant is not suffered and said: «If syskalsâ any person who guesses would I really, that Nightingale sang, and what an fate portends,
+stolim hung in a cage so piteously, and Nightingale sang,
+the merchant is not suffered and said:
+«If syskalsâ any person who guesses would I really,
+that Nightingale sang, and what an fate portends,
 
-It would seem life would give him half of the estate, and upon the death of rejected lots of goodness. " As a boy he was six years old then looked to his father and mother in the eye ozojlivo and said: "I know that the Nightingale Sings, so to say I'm afraid. "Speak without holding back!" stuck to his father and mother, and Joe with tears saying: "Nightingale heralds, there will come a time-the time will you serve me: father will become water Lodge, and his mother polotece face, hands utirat′." </DeceitByVillain>
+It would seem life would give him half of the estate, 
+and upon the death of rejected lots of goodness. 
+" As a boy he was six years old then looked to his father and mother in
+the eye ozojlivo and said: "I know that the Nightingale Sings, so to say 
+I'm afraid. "Speak without holding back!" stuck to his father and mother,
+and Joe with tears saying: "Nightingale heralds, there will come a
+time-the time will you serve me: father will become water Lodge, and 
+his mother polotece face, hands utirat′." </DeceitByVillain>
 
  < Absentation subtype = "Elders" >
 
- These words hurt grieved the Merchant with kupčihoû, and they decided to sell their offspring; </Absentation>
+ These words hurt grieved the Merchant with kupčihoû, and they decided 
+ to sell their offspring; </Absentation>
 
  </Preparation>
 
  < Villainy subtype = "CastIntoSea" >
 
- built a small boat, in the dark night put into it a sleepy boy and allowed to go to sea. At that time flew out of the cage Nightingale-progressive, ppiletel into a boat and sat the boy naplečo </Villainy>.
+ built a small boat, in the dark night put into it a sleepy boy and allowed
+ to go to sea. At that time flew out of the cage Nightingale-progressive, 
+ ppiletel into a boat and sat the boy naplečo </Villainy>.
 
  <Departure>
 
@@ -55,7 +68,10 @@ its sails.
 
  < Transference subtype = "HeroRides" >
 
-He saw the boy's kopabel′ŝik, feel sorry for him, took him to, asked about all and promised to hold and love him as a native son. The other day said boy new to the father: "Solovejde hums, podymetsâ storm, polomaet masts, will pass through the sails; We must povprodvorotit′ in labor. "
+He saw the boy's kopabel′ŝik, feel sorry for him, took him to, asked about all 
+and promised to hold and love him as a native son. The other day said boy new to
+the father: "Solovejde hums, podymetsâ storm, polomaet masts, will pass through 
+the sails; We must povprodvorotit′ in labor. "
 
  
 
@@ -79,11 +95,13 @@ And Joe again says:
 
  
 
- At that time the korabel′ŝik obeyed, privorotil to the island and saw the twelve ships, plundering, ran by.
+ At that time the korabel′ŝik obeyed, privorotil to the island and saw the twelve
+ ships, plundering, ran by.
 
  
 
-How much ought sopyl korabel′ŝik waited on. Neither little nor much time elapsed, badgering the ship to the city of Hvalynsku; 
+How much ought sopyl korabel′ŝik waited on. Neither little nor much time elapsed,
+badgering the ship to the city of Hvalynsku; 
 
 </Transference>
 
@@ -91,13 +109,26 @@ How much ought sopyl korabel′ŝik waited on. Neither little nor much time elap
 
  <Struggle>
 
-and the zdeš of the King for several years. before dorcovym to Windows and fly and scream with voronnhoû and voronenkom Raven, no day or night to anyone ugomonu. Neither did any of the tricks they need from okošekotžit′; even the fraction does not charge! And ordered it from the King to beat at all intersections and piers takovu letter: e eli who will otžit′ from the Palace Windows Crow with voronihoû, the King of my Kingdom to reward its will and less of a Princess as his wife; and who will take on the case, and the case does not, that would cut off the head. Many hunters with the King, so all their heads under a as long put and pristal″no learned about Joe was asked by korabel′ŝika: 
+and the zdeš of the King for several years. 
+before dorcovym to Windows and fly and scream with voronnhoû and voronenkom Raven, 
+no day or night to anyone ugomonu. Neither did any of the tricks they need from okošekotžit′;
+even the fraction does not charge! And ordered it from the King to beat at all intersections 
+and piers takovu letter: e eli who will otžit′ from the Palace Windows Crow with voronihoû, 
+the King of my Kingdom to reward its will and less of a Princess as his wife; and who will
+take on the case, and the case does not, that would cut off the head. Many hunters with the King,
+so all their heads under a as long put and pristal″no learned about Joe was asked by korabel′ŝika: 
 
 </Struggle>
 
  <Victory>
 
-"Let me go to the King to drive away a Crow with voronihoû. How many no coaxing his korabel′ŝik, couldn't 've. "Well, stypaj, said, Yes if that evil happens to blame!" came the Vasya in the Palace, said the King and told him to open the window, next to which a crow flew. Listen to the bird's cry and said to the King: "your Majesty, you can see that fly here three: Raven, his wife voroniha and son of their collars of nenok; Crow with voronihoû argue, who is the son of the father or mother, and asked to judge them. Your Majesty! Tell me, who is the son of supplies? "the King says: «Father». Only the King uttered the word Raven with the voronenkom flew to the right and voroniha left. </Victory>
+"Let me go to the King to drive away a Crow with voronihoû. How many no coaxing his korabel′ŝik,
+couldn't 've. "Well, stypaj, said, Yes if that evil happens to blame!" came the Vasya in the Palace,
+said the King and told him to open the window, next to which a crow flew. Listen to the bird's cry 
+and said to the King: "your Majesty, you can see that fly here three: Raven, his wife voroniha and 
+son of their collars of nenok; Crow with voronihoû argue, who is the son of the father or mother, 
+and asked to judge them. Your Majesty! Tell me, who is the son of supplies? "the King says: «Father». 
+Only the King uttered the word Raven with the voronenkom flew to the right and voroniha left. </Victory>
 
  </StruggleVictory>
 
@@ -123,19 +154,26 @@ returns home ... ->
 
 < Wedding subtype = "WeddingThrone" > 
 
-After the King took the boy to himself, and he lived with him in great mercy and honour; grew up to be a good stiff upper lip, married the King's daughter and took in the dowry of my Kingdom. Wish him a happy porazny m, on someone else's land, people, see and be seen; got ready and went out walking.
+After the King took the boy to himself, and he lived with him in great mercy and honour; 
+grew up to be a good stiff upper lip, married the King's daughter and took in the dowry 
+of my Kingdom. Wish him a happy porazny m, on someone else's land, people, see and be seen;
+got ready and went out walking.
 
 </Wedding>
 
  <Return>
 
-In one city, he stopped to spend the night; 4th floor, got up in the morning and tells her to have him wash. 
+In one city, he stopped to spend the night; 4th floor, got up in the morning and tells her 
+to have him wash. 
 
 </Return>
 
  <RecognitionOfHero>
 
-The owner brought him water, and mistress filed a towel; popa govopilcâ Korolevčič with them and found out that they were his father and mother, wept for joy and fell to their feet by a parent; and then took them with him in the town of khvalynsk, and they all live together happily ever after-da goodness making </RecognitionOfHero>.
+The owner brought him water, and mistress filed a towel; popa govopilcâ Korolevčič with them 
+and found out that they were his father and mother, wept for joy and fell to their feet 
+by a parent; and then took them with him in the town of khvalynsk, and they all live 
+together happily ever after-da goodness making </RecognitionOfHero>.
 
  </Move>
 
