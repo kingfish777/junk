@@ -1,9 +1,9 @@
-
 <!-edited with XML Spy 3.5 NT v (http://www.xmlspy.com)->
 
  <!-last edited 11.08.2001->
 
- < Folktale Title = "Girl and the bear" AT = "480" NewAfanasievEditionNumber = "557" ProppConformity = "Yes" >
+ < Folktale Title = "Girl and the bear" AT = "480" 
+      NewAfanasievEditionNumber = "557" ProppConformity = "Yes" >
 
  <Move>
 
@@ -37,7 +37,8 @@ Entered the hut and became the sisters cry:
 
  </Lack>
 
- < DonorFunction subtype = "TestOfHero" >-"I'm in a forest, the forest, I will come to you to spend the night,
+ < DonorFunction subtype = "TestOfHero" >-"I'm in a forest, the forest, 
+ I will come to you to spend the night,
 
  -meet the huge bear coming in the door, don't be afraid of me,
 
@@ -81,7 +82,8 @@ She hit.
 
  
 
-"Now my bed bed a number of logs Yes a number of stones, mortar in the head, and wrap yourself up a millstone." 
+"Now my bed bed a number of logs Yes a number of stones, mortar in the head, 
+and wrap yourself up a millstone." 
 
  
 
