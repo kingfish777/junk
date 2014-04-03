@@ -1,4 +1,3 @@
-
 <? xml version = "1.0" encoding = "UTF-8"? >
 
 <!-A1 B2_4 C Departure H1 I1 K4 Return W_ *->
@@ -23,21 +22,29 @@ important: with every yard on the Red devke; take a girl and eat her.
 
  </Preparation>
 
- < Villainy subtype = "Kidnapping" > Come up go to the Snake King's daughter. Grabbed the snake Princess and dragged her to his den, and there it was: 
+ < Villainy subtype = "Kidnapping" > Come up go to the Snake King's daughter. 
+ Grabbed the snake Princess and dragged her to his den, and there it was: 
 
 </Villainy>
 
  < ConnectiveIncident subtype = "Dispatch" >
 
- the beauty was, so for a wife for himself. Fly a kite in their promysli, and Princess will overwhelm the logs, not gone. The Princess was a dog, uvâzalas′ with her from home. Write a little note to the Princess, father with mother, to force the dog to the neck; and that will run in the right places, and the answer still will bring. Here are the times the King with Queen and wrote to the Princess: find out who is the snake? 
+ the beauty was, so for a wife for himself. Fly a kite in their promysli, 
+ and Princess will overwhelm the logs, not gone. The Princess was a dog, 
+ uvâzalas′ with her from home. Write a little note to the Princess, father 
+ with mother, to force the dog to the neck; and that will run in the right 
+ places, and the answer still will bring. Here are the times the King with 
+ Queen and wrote to the Princess: find out who is the snake? 
 
  
 
-The Princess has become more communicative to his snake, he became press him, who his stronger. 
+The Princess has become more communicative to his snake, he became press him,
+who his stronger. 
 
  
 
-He did not say Yes and spill the beans that lives in the city of Kiev-the Tanner and his stronger.
+He did not say Yes and spill the beans that lives in the city of Kiev-the 
+Tanner and his stronger.
 
  
 
@@ -55,7 +62,8 @@ syŝite in Kiev Mikita Kožemâku Yes send it me to rescue from captivity.
 
  <ConsentToCounteraction>
 
- The King, having received such news, Nikita Kožemâku won the da went to ask him to release his land from the absolute snake and the vyrucat′ Princess. 
+ The King, having received such news, Nikita Kožemâku won the da went to ask him 
+ to release his land from the absolute snake and the vyrucat′ Princess. 
 
  
 
@@ -63,7 +71,8 @@ syŝite in Kiev Mikita Kožemâku Yes send it me to rescue from captivity.
 
  
 
- as he saw it, that the King himself came to him, shaking with fear, he began to shake hands and ripped it those twelve hides. 
+ as he saw it, that the King himself came to him, shaking with fear, he began to shake
+ hands and ripped it those twelve hides. 
 
  
 
@@ -73,7 +82,8 @@ Yes slol′ko no entreated King with Queen Kožemâku never went as a snake.
 
  
 
-That's up to collect five thousand children young, and forced them to ask the Kožemâku: maybe on their tears sžalobit′sâ! 
+That's up to collect five thousand children young, and forced them to ask the Kožemâku:
+maybe on their tears sžalobit′sâ! 
 
  
 
@@ -85,7 +95,8 @@ Shed a tear and Nikita Kozhemyaka, their tears looking.
 
  
 
-Took three hundred pounds of hemp, nasmolil smoloû and the whole is wrapped to snakes ate, and went at it. 
+Took three hundred pounds of hemp, nasmolil smoloû and the whole is wrapped to snakes ate,
+and went at it. 
 
 </ConsentToCounteraction>
 
